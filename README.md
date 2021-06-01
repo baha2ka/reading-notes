@@ -6,4 +6,4 @@
 | name  | link |
 | ----------- | ----------- |
 | readme      |  [link](https://baha2ka.github.io/reading-notes/)     |
-|  groth-mind| [link](groth-mind.md) |
+|  read01| [link](https://baha2ka.github.io/reading-notes/read01) |
