@@ -11,4 +11,4 @@
 |  read03 | [link](https://baha2ka.github.io/reading-notes/read03)|
 |  read04 | [link](https://baha2ka.github.io/reading-notes/read03) |
 |  read06 | [link](https://baha2ka.github.io/reading-notes/read06)
- 
+|  read08 | [link](https://baha2ka.github.io/reading-notes/read08)|
